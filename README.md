@@ -12,8 +12,8 @@ Projeto executado em 20 de maio de 2022, para o Bootcamp da [Digital Innovation 
 Para executar o projeto, execute o arquivo index.html em browser.
 
 Comandos:
-#### Iniciar o projeto: npx -p typescript tsc --init
-#### Processar arquivo *.TS: npx -p typescript tsc
+* Iniciar o projeto: npx -p typescript tsc --init
+* Processar arquivo *.TS: npx -p typescript tsc
 
 ## Links Úteis
 
